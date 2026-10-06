@@ -1,0 +1,21 @@
+# SQL Server / local secrets
+*.bak
+*.trn
+*.mdf
+*.ndf
+*.ldf
+
+# Credentials and local configuration
+*.env
+*.secret
+secrets.*
+appsettings.local.json
+
+# PowerShell output
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
